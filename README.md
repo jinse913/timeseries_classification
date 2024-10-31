@@ -5,8 +5,6 @@
 - CNN Models for Timeseries Classification
   - Mohammadi Foumani, Navid, et al. "Deep learning for time series classification and extrinsic regression: A current survey." *ACM Computing Surveys* 56.9 (2024): 1-45.
 
-[CNN Models for Timeseries Classification](CNN%20Models%20for%20Timeseries%20Classification%2013061d0a93de80fd9e8edf6554c4718b.csv)
-
 - Environment
   - GPU: NVIDIA GeForce RTX 4070 Ti
   - cuda version: 11.2
